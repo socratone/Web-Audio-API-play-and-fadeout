@@ -1,0 +1,20 @@
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+button {
+  width: 5rem;
+  height: 2rem;
+  margin: 0.5rem;
+}
